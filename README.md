@@ -16,9 +16,6 @@ In 'derivative', the formulas are present that allow us to obtain the angular ac
 
 In 'integrate', the values obtained in 'derivative' are integrated over a time interval 0-20.
 
-##### 'test_project.py'
-
-Since the values are chosen by users to test the validity of the program, I have pre-set values for the lengths, masses, initial angles, and angular velocities of the two pendulums using the 'sample_solution' function. Meanwhile, the other three functions, 'test_create_animation', 'test_integrate', and 'test_derivate', test the respective functions in 'project.py' using the data from 'sample_solution' and create an animation.
 
 ##### 'requirements.txt'
 
